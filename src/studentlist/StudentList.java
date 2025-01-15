@@ -21,7 +21,7 @@ public class StudentList {
         Student s2 = new Student();
         s2.setName("Palak Shah");
         Student s3 = new Student();
-        s3.setName("Megh Vankawala");
+        s3.setName("Dong Nguyen");
 //        Student s4 = new Student();
 //        s4.setName("Megh Vankawala");
 //       
