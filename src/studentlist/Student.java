@@ -8,6 +8,7 @@ package studentlist;
  *
  * @author Dong NGuyen    
   date :22 =2
+  email:nguye617@sheridancollege.ca
  */
 public class Student {
     private String name;
